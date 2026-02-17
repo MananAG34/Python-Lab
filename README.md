@@ -7,9 +7,9 @@ Adding python files.
 ---
 
 ## 🧑‍💻 Student Information
-- **Name:** [Manan Agrawal ]
-- **SAP ID:** [590027925]
-- **Batch:** B.TechCSE(Sem 2)
+- **Name:** Manan Agrawal 
+- **SAP ID:** 590027925
+- **Batch:** B79
 
 ---
 
@@ -41,7 +41,7 @@ The purpose of this experiment is to demonstrate proficiency in Python's conditi
 ---
 
 ## 📜 Honor Code
- **[I,]**, declare that this submission is my original work and I have followed the academic integrity guidelines provided in the general instructions by my professor.
+ **I,**declare that this submission is my original work and I have followed the academic integrity guidelines provided in the general instructions by my professor.
 
 ---
 
